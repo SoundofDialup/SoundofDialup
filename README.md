@@ -2,4 +2,4 @@
 - 🧠 I'm passionate about life long learning.
 - 🌱 I make beginner-friendly educational content in the tech space.
 - 🎓 I'm a qualified teacher and web developer.
-- 📫 [https://soundofdialup.tech](soundofdialup.tech)
+- 📫 [soundofdialup.tech](https://soundofdialup.tech)
