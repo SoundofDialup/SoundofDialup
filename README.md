@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SoundofDialup
+- 🧠 I'm passionate about life long learning.
+- 🌱 I make beginner-friendly educational content in the tech space.
+- 🎓 I'm a qualified teacher and web developer.
+- 📫 soundofdialup.tech
