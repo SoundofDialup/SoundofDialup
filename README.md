@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @SoundofDialup
-- 🧠 I'm passionate about life long learning.
-- 🌱 I make beginner-friendly educational content in the tech space.
-- 🎓 I'm a qualified teacher and web developer.
-- 📫 [soundofdialup.tech](https://soundofdialup.tech)
+Hello darkness, my old friend,
+I've come to code with you again.
+Because a modem softly screeching,
+dumped its logs while I was sleeping.
+And the style sheet
+that was planted in my brain,
+still remains.
+Within the sound of dialup.
