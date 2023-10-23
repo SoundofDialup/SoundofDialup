@@ -1,6 +1,6 @@
 # G'Day!
 
-Hello there! My GitHub account is a hub of diverse projects spanning across different domains. They are meticulously organised into five distinct organisations to keep things neat and easily traversable. Here's a brief overview:
+Hello there! My GitHub account is a hub of diverse projects spanning different domains. They are meticulously organised into distinct organisations to keep things neat and easily traversable. Here's a brief overview:
 
 ## Organisations 🗂️
 
